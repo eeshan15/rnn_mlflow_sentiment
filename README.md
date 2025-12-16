@@ -1,4 +1,3 @@
-````markdown
 # Sentiment Analysis Pipeline (RNN + MLflow + DVC)
 
 This project demonstrates an intermediate MLOps workflow using DVC Pipelines to automate the machine learning lifecycle. It implements a Sentiment Analysis model using a PyTorch RNN, where data preprocessing and training steps are orchestrated via a `dvc.yaml` file.
