@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = rawdata
 ['remote "myremote"']
     url = ../data
+['remote "rawdata"']
+    url = ../data/raw_data.csv
